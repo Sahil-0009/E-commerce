@@ -727,7 +727,9 @@ h3 > a { color: inherit; }
   gap: 40px;
 }
 
-.footer .logo { margin-bottom: 20px; }
+.footer .logo { margin-bottom: 20px; 
+              height :20px
+              width : 20px}
 
 .footer-text {
   line-height: 1.6;
